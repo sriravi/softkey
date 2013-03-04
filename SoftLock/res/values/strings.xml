@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoftLock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="userid">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_soft_lock_password_change">SoftLockPasswordChangeActivity</string>
+    <string name="newPassword">Enter the new Password</string>
+    <string name="oldPassword">Enter the old Password</string>
+    <string name="reNewPassword">Re-Enter the new Password</string>
+    <string name="screen_changePassword">Change Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+</resources>
