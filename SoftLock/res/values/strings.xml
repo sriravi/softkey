@@ -13,6 +13,6 @@
     <string name="reNewPassword">Re-Enter the new Password</string>
     <string name="screen_changePassword">Change Password</string>
     <string name="cancel">Cancel</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">Confirm</string> 
 
 </resources>
